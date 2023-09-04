@@ -1,0 +1,18 @@
+import random
+
+# Define a list of girl-oriented game options
+games = [
+   "Dress Up",
+   "Makeup Salon",
+   "Fashion Show",
+   "Princess Adventure"
+   # Add more game options here
+]
+
+# Randomly select a game
+chosen_game = random.choice(games)
+
+# Display the chosen game
+print("Welcome to the", chosen_game, "game! Have fun!")
+
+# You can now add specific functionality and features to the chosen game
