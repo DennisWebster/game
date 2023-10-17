@@ -1,6 +1,6 @@
 import random
 
-# Define a list of girl-oriented game options
+# Define a list of girl-oriented game options.
 games = [
    "Dress Up",
    "Makeup Salon",
